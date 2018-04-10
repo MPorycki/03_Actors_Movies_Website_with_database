@@ -2,7 +2,7 @@
 
 
 Stwórz endpoint, który zwróci w JSON listę wszystkich nazw miast zawartych w tabelli city. Kolejność nazw miast powinna być alfabetyczna. Zapytanie na:
-# GET /cities
+# 1. GET /cities
 zwróci:
 
 ["A Corua (La Corua)", "Alessandria", ...]
