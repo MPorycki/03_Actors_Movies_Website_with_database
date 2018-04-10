@@ -1,0 +1,1 @@
+alter table film add column category_id smallint
